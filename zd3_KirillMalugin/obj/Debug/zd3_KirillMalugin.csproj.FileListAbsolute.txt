@@ -1,0 +1,10 @@
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\bin\Debug\zd3_KirillMalugin.exe.config
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\bin\Debug\zd3_KirillMalugin.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\bin\Debug\zd3_KirillMalugin.pdb
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.Form1.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.Properties.Resources.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.csproj.GenerateResource.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.pdb
