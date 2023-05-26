@@ -43,9 +43,12 @@ namespace zd3_KirillMalugin
 
         public void Remove (string name)
         {
-            if ( depart.Contains(name))
+            //Параметры для проверки
+            int countBefore = depart.Count; 
+            depart.RemoveAll(depart => depart.Contains($"Название отдела:{name}"));
+            int countAfter = depart.Count;
+            if (countAfter < countBefore)
             {
-                depart.Remove(name);
                 MessageBox.Show($"Отдел {name} удален");
             }
             else

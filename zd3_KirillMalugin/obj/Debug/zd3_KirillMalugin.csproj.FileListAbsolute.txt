@@ -8,3 +8,14 @@ C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_Kirill
 C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.csproj.CoreCompileInputs.cache
 C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.exe
 C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.pdb
+C:\Users\kiril\Downloads\zd3_KirillMalugin-main\zd3_KirillMalugin-main\zd3_KirillMalugin\bin\Debug\zd3_KirillMalugin.exe.config
+C:\Users\kiril\Downloads\zd3_KirillMalugin-main\zd3_KirillMalugin-main\zd3_KirillMalugin\bin\Debug\zd3_KirillMalugin.exe
+C:\Users\kiril\Downloads\zd3_KirillMalugin-main\zd3_KirillMalugin-main\zd3_KirillMalugin\bin\Debug\zd3_KirillMalugin.pdb
+C:\Users\kiril\Downloads\zd3_KirillMalugin-main\zd3_KirillMalugin-main\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.csproj.AssemblyReference.cache
+C:\Users\kiril\Downloads\zd3_KirillMalugin-main\zd3_KirillMalugin-main\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiril\Downloads\zd3_KirillMalugin-main\zd3_KirillMalugin-main\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.Form1.resources
+C:\Users\kiril\Downloads\zd3_KirillMalugin-main\zd3_KirillMalugin-main\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.Properties.Resources.resources
+C:\Users\kiril\Downloads\zd3_KirillMalugin-main\zd3_KirillMalugin-main\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.csproj.GenerateResource.cache
+C:\Users\kiril\Downloads\zd3_KirillMalugin-main\zd3_KirillMalugin-main\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Downloads\zd3_KirillMalugin-main\zd3_KirillMalugin-main\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.exe
+C:\Users\kiril\Downloads\zd3_KirillMalugin-main\zd3_KirillMalugin-main\zd3_KirillMalugin\obj\Debug\zd3_KirillMalugin.pdb

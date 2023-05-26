@@ -39,7 +39,6 @@ namespace zd3_KirillMalugin
             this.label4 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
-            this.button2 = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.button3 = new System.Windows.Forms.Button();
@@ -127,16 +126,6 @@ namespace zd3_KirillMalugin
             this.listBox1.Size = new System.Drawing.Size(726, 264);
             this.listBox1.TabIndex = 9;
             // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(579, 133);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(209, 34);
-            this.button2.TabIndex = 10;
-            this.button2.Text = "Вывод коллекции";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -172,7 +161,6 @@ namespace zd3_KirillMalugin
             this.Controls.Add(this.button3);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.button2);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox4);
@@ -203,7 +191,6 @@ namespace zd3_KirillMalugin
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.Button button3;
