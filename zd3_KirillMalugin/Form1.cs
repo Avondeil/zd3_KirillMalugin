@@ -27,7 +27,7 @@ namespace zd3_KirillMalugin
         {
             try {
                 dp.Name = textBox1.Text; dp.Basesalary = double.Parse(textBox2.Text); dp.Coefficient = double.Parse(textBox3.Text); dp.p = int.Parse(textBox4.Text);
-                if ( dp.sc == true )
+                if ( dp.sc == true && textBox1.Text!="")
                 {
                     dp.Add( );
                     MessageBox.Show("Данные добавлены", "Успех", MessageBoxButtons.OK, MessageBoxIcon.Information);
